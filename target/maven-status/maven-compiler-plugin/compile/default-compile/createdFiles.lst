@@ -1,0 +1,7 @@
+com\silvee\assemblers\UserAssembler.class
+com\silvee\vo\CreateUserVO.class
+com\silvee\vo\UserVO.class
+com\silvee\service\UserService.class
+com\silvee\service\UserServiceImpl.class
+com\silvee\util\UserUtil.class
+com\silvee\vo\UpdateUserVO.class
